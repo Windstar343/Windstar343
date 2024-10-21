@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving into t
 
 ---
 
-## 🎧 My Last Spotify Listen
+## 🎧 Spotify Listen
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/11136754284)
+<3 [RED CUPS by UFO361](https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs). 
 
-*Click the image to see my current Spotify status!*
+![Album Cover](https://i.scdn.co/image/ab67616d00001e023c3541f363538514d7a1a141)
 
 ---
 
