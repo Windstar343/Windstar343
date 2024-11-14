@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving into t
 
 ## 🎧 Spotify Listen
 
-<3 [RED CUPS by UFO361](https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs). 
+[Nothing....](). 
 
-![Album Cover](https://i.scdn.co/image/ab67616d00001e023c3541f363538514d7a1a141)
+
 
 ---
 
