@@ -4,14 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving into t
 
 ---
 
-## 🎧 Spotify Listen
-
-[Nothing....](). 
-
-
-
----
-
 ## 💻 Skills & Technologies
 
 - **Languages:** C#, JavaScript, HTML, CSS
